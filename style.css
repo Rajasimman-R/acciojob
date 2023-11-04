@@ -1,0 +1,145 @@
+.header{
+    position: fixed;
+    top: 0;
+padding: 15px 108px 15px 108px;
+justify-content:space-between;
+background: rgba(255, 255, 255, 1);
+z-index: 2;
+
+}
+
+nav{
+    display: flex;
+   margin-top: 0;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+}
+.ulnav{
+display: flex;
+gap: 35px;
+}
+.ch{
+    margin-top: 3%;
+    
+}
+.nava{
+ color:rgba(79, 79, 79, 1);
+ text-decoration: none;
+}
+.login{
+ width:108px;
+border-radius: 8px;
+border: 2px solid rgba(47, 128, 237, 1);
+gap: 10px;
+Padding : 12px 36px 15px 32px;
+color:rgba(47, 128, 237, 1);
+}
+.heacol{
+    background-color: rgba(47, 128, 237, 1);
+    padding-top:0.5%;
+    color: white;
+}
+.img{
+    margin-left:2% ;
+}
+.firstline{
+    color:rgba(153, 47, 237, 1);
+    font-size: 16px;
+   
+}
+.secline,.thirdline{
+    font-style: italic;
+    font-size: x-large;
+}
+.thirdline{
+    color:rgba(47, 128, 237, 1);
+}
+.forthline{
+   font-size: small;
+   color: rgba(89, 89, 89, 1);
+}
+.btn{
+    margin-top: 20px;
+    width: 276px;
+    height: 55px;
+    top: 670px;
+    left: 582px;
+    padding: 14px 6px 14px 16px;
+    border-radius: 8px;
+    gap: 2px;
+}
+.hr{
+    color: rgb(120, 118, 118);
+
+
+}
+.blue{
+     /* width and color */
+    text-shadow: -1px 1px 0 rgb(1, 1, 1), 
+    1px 1px 0 rgb(1, 1, 1), 
+   1px -1px 0 rgb(1, 1, 1), 
+  -1px -1px 0 rgb(1, 1, 1); 
+   color:rgba(47, 128, 237, 1);
+   font-size:50px;
+   font-style: italic;
+}
+.border{
+    border: 5px solid black;
+    border-radius: 8px;
+}
+.phara{
+    margin-top: 3%;
+    font-size: small;
+}
+.small{
+    font-size: 12px;
+}
+
+.phara1{
+    font-size:small;
+    
+}
+.form{
+    width: 415px;
+height: 496px;
+top: 197px;
+left: 917px;
+box-shadow: 0px 25px 54px 0px rgba(0, 0, 0, 0.12);
+border-radius: 18px;
+text-align: center;
+
+}
+.userinput{
+    width: 366px;
+height: 52px;
+padding: 14px 6px 14px 10px;
+
+gap: 10px;
+
+    font-size:18px;
+    width: 90%;
+    height: 50px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.292);
+}
+.subbutton{
+    font-size:18px;
+    font-style: italic;
+    width:367px;
+height: 55px;
+padding: 14px 6px 14px 16px;
+border-radius: 8px;
+gap: 2px;
+border: 0;
+background: linear-gradient(276.97deg, #992FED 0%, #2F80ED 100%);
+color: white;
+}
+.formp{
+    font-size: 14px;
+    margin-top: 30px;
+}
+.forma{
+    text-decoration: none;
+    font-size: 14px;
+}
